@@ -1,0 +1,1 @@
+exports.ola = 'Ola pessoal!'
